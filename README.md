@@ -1,5 +1,5 @@
-# Building Cloud IaaS infrastructures and Computing Models
-## Introduction
+# <palign="center"> Building Cloud IaaS Infrastructures and Computing Models </p>
+# Introduction
 This repository contains the final project of the Big Data infrastructures course of the Bioinformatics Master of Bologna, created by Laia Torres Masdeu and Giacomo Orsini. The objectives of the project were the following:
 - Build a computing infrastructure on the Cloud composed of at least two distinct and geographically distributed “sites”. Each site has to have:
   - CPU resources in a small batch farm.
@@ -15,6 +15,6 @@ This repository contains the final project of the Big Data infrastructures cours
 
 This repository contains all the instructions and files used to build a cloud IaaS infrastructure with AWS (Amazon Web Service) and Google Cloud Platform, as well as the final report made for the Big Data Infrastructure course.
 
-Written by Giacomo Orsini and Laia Torres
+Written by Giacomo Orsini and Laia Torres Masdeu.
 
-### All commands necessary to replicate the work can be found in this repository (.sh)
+## All commands necessary to replicate the work can be found in this repository (.sh)
