@@ -1,4 +1,4 @@
-# <palign="center"> Building Cloud IaaS Infrastructures and Computing Models </p>
+# <p style="text-align:center;"> Building Cloud IaaS Infrastructures and Computing Models </p>
 # Introduction
 This repository contains the final project of the Big Data infrastructures course of the Bioinformatics Master of Bologna, created by Laia Torres Masdeu and Giacomo Orsini. The objectives of the project were the following:
 - Build a computing infrastructure on the Cloud composed of at least two distinct and geographically distributed “sites”. Each site has to have:
