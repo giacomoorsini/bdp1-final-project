@@ -16,5 +16,3 @@ This repository contains the final project of the Big Data infrastructures cours
 This repository contains all the instructions and files used to build a cloud IaaS infrastructure with AWS (Amazon Web Service) and Google Cloud Platform, as well as the final report made for the Big Data Infrastructure course.
 
 Written by Giacomo Orsini and Laia Torres Masdeu.
-
-## All commands necessary to replicate the work can be found in this repository (.sh)
