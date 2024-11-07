@@ -1,4 +1,4 @@
-# <p style="text-align:center;"> Building Cloud IaaS Infrastructures and Computing Models </p>
+# <p style="text-align:center;"> <b> Building Cloud IaaS Infrastructures and Computing Models </b> </p>
 # Introduction
 This repository contains the final project of the Big Data infrastructures course of the Bioinformatics Master of Bologna, created by Laia Torres Masdeu and Giacomo Orsini. The objectives of the project were the following:
 - Build a computing infrastructure on the Cloud composed of at least two distinct and geographically distributed “sites”. Each site has to have:
@@ -16,3 +16,14 @@ This repository contains the final project of the Big Data infrastructures cours
 This repository contains all the instructions and files used to build a cloud IaaS infrastructure with AWS (Amazon Web Service) and Google Cloud Platform, as well as the final report made for the Big Data Infrastructure course.
 
 Written by Giacomo Orsini and Laia Torres Masdeu.
+
+## Big Data, Cloud computing and AWS
+"Big Data" is high-volume, high-velocity and high-variety information assets that demand cost-effective, innovative forms of information processing that enable enhanced insight,decision making,and process automation. Moreover, these data are also high-veracity (meanining uncertain, uncategorized, difficult to trust) and high-value. In fact, processing and analyzing this data offers significant insights but requires powerful computing resources and storage.
+Traditional systems struggle to handle this scale, which is why cloud infrastructures are essential. Cloud infrastructures provide a flexible, scalable environment that can support big data needs by offering resources on demand. They often operate as Infrastructure as a Service (IaaS), which provides virtualized computing resources over the internet. In an IaaS setup, users can rent processing power, storage, and network capabilities without needing to maintain physical servers.
+Amazon Web Services (AWS) is a comprehensive and widely used cloud platform that provides a vast array of on-demand computing services.
+
+## The scientific challenge
+NGS (next Generation Sequencing) is a powerful technology that allows scientists to sequence entire genomes, analyze gene expression, and study genetic variations rapidly and accurately. The scale and speed of NGS have revolutionized genomics, enabling breakthroughs in personalized medicine, genetic research, and disease diagnostics. By generating massive amounts of DNA or RNA data in a single run, NGS produces vast quantities of complex, high-resolution genetic information. This level of data qualifies as "big data" because it requires substantial storage, computational power, and advanced analytics to process, interpret, and manage. In this context, cloud computing is essential to handle the complexity of data, allowing researchers to scale computing resources depending on their specific data analysis needs. Cloud computing also supports collaborative work, enabling researchers across the globe to access and analyze data simultaneously.
+
+# Instructions
+To replicate the work done, please download and follow the final report `BSPI_project_ltm_go.pdf` (https://github.com/giacomoorsini/bdp1-final-project/blob/main/BDPI_project_ltm_go.pdf).
