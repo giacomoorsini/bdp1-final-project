@@ -1,4 +1,4 @@
-# <p style="text-align:center;"> <b> Building Cloud IaaS Infrastructures and Computing Models </b> </p>
+# <p style="text-align:center;"> <b> Building Cloud IaaS Infrastructures and Computing Models to solve a biological challange </b> </p>
 
 This repository contains the final project of the Big Data infrastructures course of the Bioinformatics Master of Bologna, created by Laia Torres Masdeu and Giacomo Orsini. It contains all the instructions and files used to build a cloud IaaS infrastructure with AWS (Amazon Web Service) and Google Cloud Platform, as well as the final report made for the Big Data Infrastructure course.
 
